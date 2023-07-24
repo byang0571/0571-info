@@ -1,37 +1,34 @@
 # title of website
-title: %NAME%
+title: HANGZHOU 0571.info
 
 # description of website
-description: %ACTOR%'s navigation site
+description: byang0571's navigation site
 
 # favicon of website
-favicon: "https://github.com/%ACTOR%.png?size=40"
+favicon: "https://github.com/byang0571.png?size=40"
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://byang0571.github.io/0571.info/
 
 # github profile url
-github: "https://github.com/%ACTOR%"
+github: "https://github.com/byang0571"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2023-2023 0571.info design by Byang
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
+google_analytics: ""
 
 webstack:
   search:
     enabled: true
-    default: google
+    default: baidu
     # 可选的搜索引擎
-    engines:
-      - google
-      - github
-      - weibo
+    engines:     
       - baidu
       - bilibili
       - zhihu
